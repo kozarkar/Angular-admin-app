@@ -1,0 +1,16 @@
+.example-container{
+    background-color: rgb(170, 167, 167);
+    height: 93%;
+    width: 100%;
+}
+
+.panels{
+    background-color: white;
+    margin-bottom: 5px;
+    text-indent: 10px;
+    font-size: medium;
+}
+
+.panels:hover{
+    background-color: rgb(128, 126, 126);
+}

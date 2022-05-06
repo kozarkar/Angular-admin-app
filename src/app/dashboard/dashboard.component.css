@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+   
+  }
+
+  .card{
+    margin-bottom: 10px;
+    background-color: rgb(168, 165, 165);
+  }
+  .card:hover{
+    background-color: gray ;
+  }
